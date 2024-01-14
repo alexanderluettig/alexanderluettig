@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h4 align="center">A digital craftsman with a focus on backend development, dedicated to continuous learning in the realms of data management, databases, and web APIs.</h3>
+<h3 align="center">
+   <code>Digital Craftsman</code>
+   <code>Backend Dev</code>
+   <code>Math Enthusiast</code>
+</h3>
 
-<p>Beginning with an early interest in problem-solving during my school days, I initially studied mathematics before shifting to computer science. My time at university involved exploring different aspects of software development, eventually leading me to focus on backend development, where I've been honing my skills in data management and web technologies for the past years.</p>
+<div>
+   Beginning with an early interest in problem-solving during my school days, I initially studied mathematics before shifting to computer science. My time at university involved exploring different aspects of software development, eventually leading me to focus on backend development, where I've been honing my skills in data management and web technologies for the past years.
+</div>
 
 <h1 align="left">Languages and Tools:</h1>
-<p align="left" text-decoration="none"> 
+<p align="left"> 
    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />  
    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
